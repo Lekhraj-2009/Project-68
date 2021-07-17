@@ -1,0 +1,21 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    text-align: center;
+}
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+#marqueeStyle{
+    color: white;
+    background-color: blue;
+    font-size: 17px;
+    height: 25px;
+}
+#video{
+    height: 665px;
+    width: 1500px;
+}
