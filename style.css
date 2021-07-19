@@ -19,3 +19,6 @@ body{
     height: 665px;
     width: 1500px;
 }
+#map iframe{
+    float: left;
+}
